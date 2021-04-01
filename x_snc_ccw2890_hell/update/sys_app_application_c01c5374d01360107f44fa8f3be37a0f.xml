@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_application">
+    <sys_app_application action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <category display_value="">Custom Applications</category>
+        <description/>
+        <device_type>browser</device_type>
+        <hint/>
+        <name/>
+        <order/>
+        <roles>x_snc_ccw2890_hell.hellow_user</roles>
+        <sys_class_name>sys_app_application</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-04-01 16:41:44</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>c01c5374d01360107f44fa8f3be37a0f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>CCW2890 Hello World</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="CCW2890 Hello World" source="x_snc_ccw2890_hell">86461bb0d01360107f44fa8f3be37a58</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="CCW2890 Hello World">86461bb0d01360107f44fa8f3be37a58</sys_scope>
+        <sys_update_name>sys_app_application_c01c5374d01360107f44fa8f3be37a0f</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-04-01 16:41:44</sys_updated_on>
+        <title>CCW2890 Hello World</title>
+        <view_name/>
+    </sys_app_application>
+</record_update>
